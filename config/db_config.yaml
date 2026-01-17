@@ -1,0 +1,7 @@
+database:
+  type: postgres
+  host: localhost
+  port: 5432
+  name: perfdb
+  user: perf_user
+  password_env: DB_PASSWORD
