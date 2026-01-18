@@ -1,0 +1,10 @@
+#logs
+logs/
+*.log
+
+#Environmental files
+.env
+
+#python cachee
+__pycache__/
+*.pyc

@@ -5,3 +5,6 @@ database:
   name: perfdb
   user: perf_user
   password_env: DB_PASSWORD
+
+thresholds:
+  slow_query_seconds: 1
